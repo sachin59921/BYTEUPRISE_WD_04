@@ -1,7 +1,3 @@
-Here's a **README.md** template for your Task 04 **Weather Web App** project:
-
----
-
 # Weather Web Application
 
 ## Overview
