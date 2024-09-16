@@ -30,7 +30,7 @@ This project is part of my Byte Uprise Web Development Internship. The Weather W
 ## Setup & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/sachin59921/BYTEUPRISE_WD_04.git 
    ```
 2. Navigate to the project directory:
    ```bash
